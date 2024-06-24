@@ -1,6 +1,6 @@
-- 👋 Hi, I’m navassha
-- 👀 I’m interested in coding
-- 🌱 I’m currently Working
+- 👋 Hi, I’m Navas Shareef
+- 👀 I’m interested in Building apps and websites
+- 🌱 I’m currently Working and freelancing
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me on instagram ig: navvs.n
 
