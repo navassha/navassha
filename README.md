@@ -17,8 +17,8 @@ Because even our furry friends deserve top-tier tech! 🐶🐱
  - ✅ Never miss a vaccination again! 💉
 
 ##  Stalk Me Online 😜
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEJ2tKEBQb33qaz2V0CvWohTONMAwEMxDro&keywords=Navas%20Shareef&origin=ENTITY_SEARCH_HOME_HISTORY&sid=NhS)
-🐦 **Instagram:** [Your Handle](https://www.instagram.com/navvs.n/)
+🔗 **LinkedIn:** [Navas Shareef](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEJ2tKEBQb33qaz2V0CvWohTONMAwEMxDro&keywords=Navas%20Shareef&origin=ENTITY_SEARCH_HOME_HISTORY&sid=NhS)
+🐦 **Instagram:** [navvs.n](https://www.instagram.com/navvs.n/)
 📩 **Email:** navvs.n@gmail.com
 
 ## 🔥 GitHub Stats – Because Numbers Look Cool 😎
