@@ -4,11 +4,11 @@
 Hey there! I'm a **Flutter wizard** 🧙‍♂️ with **2+ years of experience**, currently rocking it as a **Senior Flutter Developer, UI/UX Designer, and Project Manager** (yes, I wear many hats 🎩👒🎓). I turn coffee ☕ into code and pixels into stunning designs! 
 
 ## My Tech Superpowers ⚡
-🛠 **Flutter & Dart** – Because cross-platform is life! 
-🔥 **Firebase & Node.js** – Backend? Easy peasy! 
-🎨 **Figma & Adobe XD** – Designing like a pro! 
-☁ **AWS & Docker** – Cloud wizardry! 
-🤖 **Git, CI/CD** – Automating my way to success! 
+ - 🛠 **Flutter & Dart** – Because cross-platform is life! 
+ - 🔥 **Firebase & Node.js** – Backend? Easy peasy! 
+ - 🎨 **Figma & Adobe XD** – Designing like a pro! 
+ - ☁ **AWS & Docker** – Cloud wizardry! 
+ - 🤖 **Git, CI/CD** – Automating my way to success! 
 
 ## 🐾 Current Project: Pet Vet App 🏥
 Because even our furry friends deserve top-tier tech! 🐶🐱
